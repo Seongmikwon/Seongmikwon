@@ -3,9 +3,7 @@
 🎓 Mobile Systems Engineering Student 
 
 @ Dankook University
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=70C1A5&height=2&section=header" width="65%" alt="Divider" />
-<br>
+
 
 💻 Programming Languages
 
